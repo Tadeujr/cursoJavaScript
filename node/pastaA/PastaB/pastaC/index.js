@@ -1,0 +1,1 @@
+this.ola2 = 'To na C mano'
